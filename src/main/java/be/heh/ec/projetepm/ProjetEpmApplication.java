@@ -1,4 +1,4 @@
-package be.heh.ec.projetepm;
+package src.main.java.be.heh.ec.projetepm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
